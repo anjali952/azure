@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\all prog\\SampleAzure\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0182A97B-0E54-45FB-9162-E4AE449C89F9}|FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj|c:\\all prog\\sampleazure\\firstazurehostedwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0182A97B-0E54-45FB-9162-E4AE449C89F9}|FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj|solutionrelative:firstazurehostedwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0182A97B-0E54-45FB-9162-E4AE449C89F9}|FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj|c:\\all prog\\sampleazure\\firstazurehostedwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0182A97B-0E54-45FB-9162-E4AE449C89F9}|FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj|solutionrelative:firstazurehostedwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\all prog\\SampleAzure\\FirstAzureHostedWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstAzureHostedWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\all prog\\SampleAzure\\FirstAzureHostedWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstAzureHostedWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T06:29:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\all prog\\SampleAzure\\FirstAzureHostedWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAzureHostedWebApp\\appsettings.json",
+              "ToolTip": "C:\\all prog\\SampleAzure\\FirstAzureHostedWebApp\\appsettings.json",
+              "RelativeToolTip": "FirstAzureHostedWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T06:27:28.18Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
