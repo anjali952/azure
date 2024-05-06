@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstAzureHostedWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c150406c202ff63fbdee403d44048bc616a1bfce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af15061b5e89723be94553ca9e6127ee69aa6483")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstAzureHostedWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstAzureHostedWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
